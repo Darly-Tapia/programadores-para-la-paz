@@ -1,0 +1,20 @@
+Pregunta 1:
+Respuesta: B
+JSON es un formato ligero que se usa para organizar e intercambiar datos entre
+aplicaciones de forma ordenada y fácil de leer.
+ 
+Pregunta 2:
+Respuesta: B
+express.json() permite que el servidor pueda leer e interpretar los datos que
+llegan en formato JSON dentro de una petición.
+ 
+Pregunta 3:
+Respuesta: B
+req.body es donde Express guarda la información enviada por el cliente en una
+petición POST, una vez que ha sido procesada.
+ 
+Pregunta 4:
+Respuesta: C
+{ "nombre": "Juan" } es la forma correcta de representar un objeto JSON, con
+las claves entre comillas dobles.
+ 
