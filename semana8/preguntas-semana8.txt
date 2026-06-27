@@ -1,0 +1,20 @@
+Pregunta 1:
+Respuesta: B
+Es el programa principal que gestiona los recursos físicos del computador, como
+la memoria y el procesador, y permite que otros programas se ejecuten sobre él.
+ 
+Pregunta 2:
+Respuesta: A
+Ubuntu, ya que su código fuente está disponible públicamente y cualquiera puede
+revisarlo, modificarlo o distribuirlo.
+ 
+Pregunta 3:
+Respuesta: B
+Es una herramienta de texto que permite escribir órdenes para que el sistema las
+ejecute, sin necesidad de utilizar ventanas o iconos.
+ 
+Pregunta 4:
+Respuesta: B
+Mantener contraseñas robustas y resguardar bien las credenciales de acceso ayuda
+a reducir el riesgo de que terceros ingresen sin autorización.
+ 
