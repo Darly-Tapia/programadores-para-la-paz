@@ -1,0 +1,21 @@
+Ejemplo de JSON para reportar una incidencia — Semana 6
+
+Un ciudadano podría enviar esta solicitud POST a http://localhost:3000/incidencia:
+
+{
+  "tipo": "Vías públicas",
+  "descripcion": "El semáforo de la avenida principal lleva varios días sin funcionar, generando riesgo para los peatones."
+}
+
+El servidor respondería con:
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Vías públicas",
+  "descripcion": "El semáforo de la avenida principal lleva varios días sin funcionar, generando riesgo para los peatones."
+}
+
+Otro ejemplo posible:
+{
+  "tipo": "Salud pública",
+  "descripcion": "Se ha detectado acumulación de agua estancada en un lote baldío, lo cual podría favorecer la presencia de mosquitos."
+}

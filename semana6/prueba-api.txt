@@ -1,0 +1,23 @@
+Prueba realizada a la ruta POST /registro — Semana 6
+
+Se envió una solicitud POST a la dirección http://localhost:3000/registro
+usando el siguiente cuerpo en formato JSON:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor procesó la información usando req.body y devolvió esta respuesta:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+¿Qué pasó exactamente?
+Gracias al middleware express.json(), el servidor pudo interpretar correctamente
+el JSON enviado en la solicitud y extraer cada valor (nombre y mensaje) desde
+req.body. Luego esos valores se devolvieron dentro de una respuesta también en
+formato JSON, confirmando que la información fue recibida sin errores. Si no se
+hubiera incluido express.json() en el servidor, req.body habría quedado vacío o
+indefinido, y la prueba no habría funcionado correctamente.
