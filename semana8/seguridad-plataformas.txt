@@ -1,0 +1,16 @@
+Prácticas de seguridad sugeridas para una plataforma comunitaria — Semana 8
+
+1. Restringir la visibilidad de los datos personales de los usuarios, mostrando
+   solo la información necesaria en cada caso.
+
+2. Almacenar las contraseñas utilizando algoritmos de cifrado, evitando guardarlas
+   tal cual fueron escritas por el usuario.
+
+3. Configurar el sitio o la API para que funcione bajo HTTPS, asegurando que la
+   información viaje protegida entre el cliente y el servidor.
+
+4. Llevar un control de los inicios de sesión y las acciones realizadas dentro
+   de la plataforma, para poder detectar movimientos inusuales.
+
+5. Definir distintos niveles de acceso según el rol del usuario, de manera que no
+   todos puedan ver o modificar la misma cantidad de información.

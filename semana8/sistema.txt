@@ -1,0 +1,18 @@
+Datos obtenidos al consultar el sistema — Semana 8
+
+--- Sobre el comando uname -a ---
+Al ejecutarlo, la terminal devuelve detalles técnicos del sistema operativo: el
+nombre del kernel en uso, el identificador del equipo, la versión exacta del
+sistema y el tipo de arquitectura (32 o 64 bits, por ejemplo). Es como una ficha
+técnica rápida del entorno donde se está trabajando.
+
+--- Sobre el comando whoami ---
+Devuelve el nombre del usuario actual dentro de la sesión de terminal. Resulta
+útil porque, según el usuario, se tendrán diferentes niveles de permisos sobre
+el sistema; no es lo mismo trabajar como un usuario normal que como administrador.
+
+--- Razón de su utilidad en la administración de servidores ---
+Antes de instalar software o realizar cambios importantes en un servidor, conviene
+verificar la versión del sistema y el usuario con el que se está trabajando. Esto
+evita instalar herramientas incompatibles y reduce el riesgo de modificar
+configuraciones críticas sin los permisos adecuados o sin saberlo.
