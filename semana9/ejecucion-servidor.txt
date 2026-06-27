@@ -1,0 +1,23 @@
+Observaciones sobre la puesta en marcha del servidor — Semana 9
+
+Al escribir node server.js en la terminal, el motor de Node.js toma el archivo,
+interpreta el código JavaScript y pone en marcha la aplicación Express definida
+allí. A partir de ese instante, el proceso queda activo esperando conexiones.
+
+En pantalla se imprime el siguiente texto:
+"Servidor ejecutándose en puerto 3000"
+
+Este aviso aparece porque fue programado dentro del callback de app.listen, y
+funciona como una señal de que la configuración fue exitosa y el servicio ya
+puede recibir solicitudes.
+
+Cuando se accede desde el navegador a http://localhost:3000/estado, se genera
+una petición GET hacia esa ruta. El servidor procesa la solicitud y entrega
+como respuesta el siguiente JSON:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+
+Esta ruta resulta práctica porque ofrece una manera sencilla de comprobar, desde
+cualquier navegador, que el backend sigue activo sin tener que mirar la consola.

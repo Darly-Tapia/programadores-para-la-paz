@@ -1,0 +1,27 @@
+Piezas que conforman un entorno de servidor — Semana 9
+
+1. Sistema operativo:
+Funciona como la base sobre la que se ejecuta todo lo demás. Gestiona el acceso
+a la memoria, al procesador y a otros recursos físicos, permitiendo que programas
+como Node.js puedan correr sin conflictos.
+
+2. Node.js:
+Es la tecnología que hace posible ejecutar JavaScript fuera de un navegador,
+directamente sobre el sistema operativo. Permite que el servidor procese peticiones
+y devuelva respuestas usando el mismo lenguaje con el que muchos desarrolladores
+ya están familiarizados.
+
+3. Aplicación server.js:
+Contiene toda la lógica específica de la aplicación: qué rutas existen, cómo debe
+responder cada una y qué configuración utilizar. Es el archivo que le da identidad
+y comportamiento particular al servidor.
+
+4. Puerto:
+Funciona como una especie de canal de entrada por donde llegan las peticiones.
+El número 3000, usado en esta práctica, le indica al sistema operativo que debe
+direccionar hacia esta aplicación todo lo que llegue a esa puerta específica.
+
+5. Logs:
+Constituyen un historial detallado de la actividad del servidor: qué se pidió,
+en qué momento y si ocurrió algún error. Son una herramienta clave para entender
+el comportamiento de la aplicación con el paso del tiempo.

@@ -1,0 +1,18 @@
+Pregunta 9 — Reflexión de la semana:
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades
+funcionen de manera estable y segura en un servidor?
+
+Una plataforma pensada para uso comunitario adquiere mayor sentido cuando puede
+ofrecer continuidad en su servicio. Si los usuarios intentan acceder y el sistema
+se encuentra caído con frecuencia, rápidamente pierden la confianza en la
+herramienta y dejan de usarla, incluso si su propósito era realmente útil para
+ellos. La estabilidad implica que el servidor pueda mantenerse en funcionamiento
+el tiempo suficiente para que los reportes, solicitudes o consultas lleguen sin
+interrupciones a quienes deben atenderlos. Por su parte, la seguridad evita que
+información sensible compartida por los miembros de la comunidad termine expuesta
+o sea utilizada de forma indebida. Estas dos condiciones, estabilidad y seguridad,
+no son aspectos opcionales en plataformas comunitarias, ya que de ellas depende
+que las personas sigan confiando y participando activamente. Llevar registros,
+monitorear el comportamiento del sistema y aplicar buenas prácticas de protección
+son acciones que, en conjunto, permiten que la tecnología cumpla su papel de
+apoyo real para quienes la necesitan.
