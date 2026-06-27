@@ -1,0 +1,4 @@
+1. Cambiar las contraseñas periódicamente y evitar reutilizar la misma en varios servicios.
+2. No anotar ni enviar contraseñas por mensajes de texto o correos sin cifrar.
+3. Instalar las actualizaciones de seguridad del sistema operativo apenas estén disponibles.
+ 
