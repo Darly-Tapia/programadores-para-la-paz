@@ -1,0 +1,19 @@
+Pregunta 1:
+Respuesta: B
+Se trata de un sistema que permanece activo procesando peticiones y devolviendo
+una respuesta a cada usuario que se conecta a la aplicación.
+
+Pregunta 2:
+Respuesta: B
+Indica que el servidor está pendiente, listo para recibir cualquier petición
+que llegue a esa dirección y número específico.
+
+Pregunta 3:
+Respuesta: B
+Llevar control sobre lo que ocurre durante la ejecución y dejar constancia de
+los errores ayuda a mantener el servidor funcionando de forma confiable.
+
+Pregunta 4:
+Respuesta: A
+Son archivos donde se va guardando un historial de lo que sucede dentro del
+sistema, útil para revisar después qué pasó en determinado momento.
