@@ -1,0 +1,19 @@
+Pregunta 1:
+Respuesta: B
+Un array es una variable capaz de contener múltiples elementos al mismo tiempo,
+organizados en una secuencia que se puede recorrer y consultar por posición.
+
+Pregunta 2:
+Respuesta: B
+El método GET se emplea cuando lo único que se necesita es leer información que
+ya está almacenada, sin modificarla.
+
+Pregunta 3:
+Respuesta: B
+El método POST se emplea cuando se quiere enviar datos nuevos al servidor para
+que este los procese y los guarde.
+
+Pregunta 4:
+Respuesta: B
+Una API funciona como un puente que permite que aplicaciones distintas puedan
+comunicarse e intercambiar datos entre ellas.
