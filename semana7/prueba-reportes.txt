@@ -1,0 +1,35 @@
+Resultado de las pruebas al servidor de reportes — Semana 7
+
+Paso 1 — Envío de un reporte con POST:
+Se hizo una petición POST hacia http://localhost:3000/reportes con el cuerpo:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+El servidor lo añadió al array y devolvió:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+
+Paso 2 — Consulta con GET:
+Al visitar http://localhost:3000/reportes, el servidor mostró todo lo almacenado
+hasta ese momento:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Conclusión de la prueba:
+Se comprueba que la ruta GET siempre muestra el estado actual del array reportes,
+reflejando cada nuevo registro hecho con POST. También se confirma que esta
+información solo existe mientras el proceso de Node.js sigue corriendo; si el
+servidor se detiene, el array se reinicia vacío la próxima vez que se inicie.

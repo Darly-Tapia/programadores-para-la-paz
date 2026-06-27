@@ -1,0 +1,17 @@
+Pregunta 9 — Reflexión de la semana:
+¿Por qué es importante que las comunidades puedan registrar y consultar reportes
+o incidencias en una plataforma tecnológica?
+
+Tener un espacio digital donde la comunidad pueda registrar y revisar reportes
+le da estructura a algo que normalmente se maneja de forma muy informal, como
+los comentarios entre vecinos o las quejas verbales que rara vez quedan documentadas.
+Al usar una plataforma para esto, cada situación reportada queda con una fecha,
+una descripción y un identificador, lo cual facilita hacerle seguimiento y
+saber si fue atendida o no. Esto también ayuda a que las personas encargadas
+de resolver esos problemas, ya sean líderes comunitarios o entidades públicas,
+puedan priorizar según la cantidad y el tipo de reportes que más se repiten.
+Además, cuando los ciudadanos ven que sus reportes quedan registrados de forma
+visible, sienten que su voz tiene un canal real para ser escuchada, lo cual
+fortalece la participación y la confianza en los procesos comunitarios. En
+resumen, una herramienta así convierte quejas dispersas en información útil
+y organizada para tomar mejores decisiones.

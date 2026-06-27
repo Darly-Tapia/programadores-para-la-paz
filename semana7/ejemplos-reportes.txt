@@ -1,0 +1,19 @@
+Ejemplos de posibles reportes comunitarios — Semana 7
+
+Ejemplo 1:
+{
+  "tipo": "Movilidad",
+  "descripcion": "La señal de tránsito de la calle 12 está caída y representa riesgo para los conductores."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Espacio público",
+  "descripcion": "El parque del barrio necesita mantenimiento, ya que la maleza ha crecido demasiado y dificulta su uso."
+}
+
+Ejemplo 3 (adicional):
+{
+  "tipo": "Salud",
+  "descripcion": "Se solicita una brigada de salud, ya que varias familias no han podido acceder a vacunación en la zona."
+}
