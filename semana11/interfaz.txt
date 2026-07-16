@@ -1,0 +1,25 @@
+Descripción de la interfaz básica de la plataforma comunitaria:
+
+Vista principal de causas:
+La pantalla de inicio mostraría una lista de todas las causas comunitarias publicadas
+con su título, categoría, fecha y un resumen breve de la descripción para que los
+visitantes puedan identificar rápidamente cuáles les interesan o les afectan.
+
+Formulario para crear una causa:
+Habría una sección con un formulario que incluye campos para ingresar el título,
+la descripción completa y la categoría de la causa. Este formulario estaría disponible
+únicamente para usuarios que hayan iniciado sesión en la plataforma.
+
+Botón para apoyar una causa:
+Cada causa en la lista tendría un botón que dice "Dar mi apoyo". Al presionarlo,
+el sistema registraría el apoyo del usuario autenticado y actualizaría el contador
+visible junto a la causa de forma inmediata.
+
+Contador de apoyos:
+Cada causa mostraría un número visible que indica cuántas personas la han apoyado
+hasta el momento, permitiendo que todos los visitantes vean el nivel de respaldo
+ciudadano sin necesidad de iniciar sesión para consultarlo.
+
+Privacidad:
+La interfaz no revelaría los nombres ni datos de los usuarios que apoyaron cada
+causa, mostrando únicamente el total de apoyos para proteger la privacidad de todos.

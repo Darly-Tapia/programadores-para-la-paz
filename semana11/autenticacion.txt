@@ -1,0 +1,17 @@
+Autenticación en una plataforma comunitaria:
+
+El login es el proceso mediante el cual un usuario demuestra su identidad ante
+el sistema ingresando sus credenciales, como nombre de usuario y contraseña, para
+que la aplicación verifique que coinciden con los datos almacenados en la base de
+datos y le permita acceder a las funciones correspondientes a su perfil.
+
+Ciertas rutas deben estar protegidas porque contienen información privada o permiten
+realizar acciones que no deberían estar disponibles para cualquier visitante, como
+crear causas, ver datos de otros usuarios o administrar el contenido del sistema.
+Sin protección cualquier persona podría manipular la información o acceder a datos
+que no le corresponden, poniendo en riesgo la seguridad de toda la comunidad.
+
+La información que no debe exponerse públicamente incluye contraseñas de usuarios,
+números de documento de identidad, teléfonos, direcciones físicas, tokens de sesión,
+claves de API y cualquier otro dato que pueda comprometer la privacidad o seguridad
+de las personas que confían en la plataforma para participar ciudadanamente.

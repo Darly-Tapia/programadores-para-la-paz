@@ -1,0 +1,14 @@
+Una plataforma tecnológica orientada a la participación ciudadana necesita base de
+datos, autenticación y protección de información porque sin estos elementos no puede
+garantizar ni la seguridad ni la confiabilidad que los ciudadanos merecen. La base
+de datos es indispensable porque permite que la información registrada por los usuarios
+persista en el tiempo y pueda ser consultada cuando sea necesario, sin depender de
+que el servidor esté encendido en todo momento. La autenticación es clave porque
+diferencia a los usuarios registrados de los visitantes anónimos, evitando que
+personas no autorizadas realicen acciones que podrían afectar la integridad del
+sistema o de la comunidad. Proteger los datos sensibles es una obligación ética
+de cualquier plataforma que maneja información de ciudadanos, especialmente cuando
+esos ciudadanos pueden pertenecer a comunidades vulnerables o en situación de riesgo.
+Sin estas tres capas de seguridad una plataforma comunitaria podría convertirse en
+una herramienta peligrosa en lugar de una herramienta de empoderamiento, por eso
+es fundamental integrarlas desde el principio del desarrollo y no como algo opcional.
