@@ -1,0 +1,16 @@
+A lo largo de este curso aprendí que la tecnología tiene un potencial enorme para
+transformar la manera en que las comunidades se organizan y hacen escuchar su voz.
+Desde los primeros temas sobre ciudadanía digital comprendí que usar internet de
+forma responsable es una forma de participar activamente en la sociedad y de
+contribuir a construir espacios más informados y éticos. Con Node.js y Express
+aprendí cómo funciona un servidor web y cómo puede recibir, procesar y responder
+información enviada por los usuarios de manera estructurada. El trabajo con rutas
+GET y POST me permitió entender cómo fluye la información entre el cliente y el
+servidor, y el uso de arrays y bases de datos me mostró cómo se almacena y organiza
+esa información para que esté disponible cuando se necesite. La autenticación me
+enseñó que proteger los accesos es una responsabilidad fundamental de cualquier
+plataforma que maneja datos de personas. Git me demostró que documentar y registrar
+el trabajo es tan importante como hacerlo bien. Finalmente este proyecto integrador
+me mostró que con conocimientos básicos de programación es posible construir
+herramientas reales que ayuden a comunidades a organizarse, reportar problemas
+y generar evidencia formal de su participación ciudadana.
