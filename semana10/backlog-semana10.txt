@@ -1,0 +1,21 @@
+Backlog del proyecto comunitario - ordenado de mayor a menor prioridad:
+
+Historia 1 (Prioridad alta):
+Como ciudadano quiero poder registrar un problema de mi barrio en la plataforma
+para que quede documentado y pueda ser atendido por quien corresponda.
+
+Historia 2 (Prioridad alta):
+Como coordinador quiero recibir una notificación en Telegram cada vez que se
+registre un nuevo reporte para poder hacer seguimiento sin revisar el sistema constantemente.
+
+Historia 3 (Prioridad media):
+Como miembro del equipo quiero poder consultar todos los reportes registrados
+para identificar cuáles han sido atendidos y cuáles siguen pendientes de solución.
+
+Historia 4 (Prioridad media):
+Como ciudadano quiero recibir una confirmación cuando mi reporte sea recibido
+correctamente para saber que la información llegó al sistema sin problemas.
+
+Historia 5 (Prioridad baja):
+Como coordinador quiero poder exportar un resumen de los reportes del mes
+para presentarlo en las reuniones comunitarias como evidencia del trabajo realizado.

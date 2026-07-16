@@ -1,0 +1,23 @@
+Primera iteración del proyecto:
+
+¿Qué 2 tareas del backlog haría primero?
+
+Tarea 1: Permitir que un ciudadano registre un problema (Historia 1)
+Tarea 2: Notificar al coordinador en Telegram cuando llega un reporte (Historia 2)
+
+¿Por qué son las más importantes?
+Estas dos tareas son prioritarias porque sin ellas el sistema no tendría ninguna
+utilidad práctica. La primera permite que los ciudadanos ingresen información al
+sistema, que es el objetivo principal de la plataforma. La segunda garantiza que
+esa información no quede sin atención, ya que el coordinador será notificado de
+inmediato y podrá actuar a tiempo. Juntas forman el ciclo más básico y esencial
+de la plataforma: registrar y notificar.
+
+¿Qué significa que una tarea esté "terminada"?
+Definición de terminado:
+
+1. La funcionalidad está implementada y responde correctamente sin errores visibles.
+2. Fue probada con al menos un ejemplo real y el resultado fue el esperado.
+3. Los cambios fueron registrados en Git con un commit claro y descriptivo.
+4. Los archivos fueron publicados correctamente en el repositorio de GitHub.
+5. No se expone información sensible como tokens, claves o datos personales.

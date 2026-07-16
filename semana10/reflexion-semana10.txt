@@ -1,0 +1,15 @@
+Las metodologías ágiles son una forma de organizar el trabajo en pequeñas entregas
+que permiten detectar errores rápidamente y ajustar el rumbo según las necesidades
+reales de la comunidad, sin esperar meses para ver un resultado. En el contexto
+comunitario esto es especialmente valioso porque las comunidades cambian y sus
+necesidades también, por lo que un sistema rígido quedaría desactualizado muy rápido.
+El backlog ayuda a priorizar qué construir primero, asegurando que el esfuerzo del
+equipo siempre esté enfocado en lo que más impacto genera para la comunidad.
+La automatización con n8n permite que tareas repetitivas como enviar notificaciones
+o registrar eventos ocurran sin intervención humana, lo que libera tiempo y reduce
+el riesgo de que algo importante pase desapercibido. Telegram como canal de
+comunicación permite que el equipo esté siempre conectado y al tanto de lo que
+ocurre en la plataforma sin necesidad de herramientas costosas ni complicadas.
+En conjunto estas herramientas crean un sistema de trabajo ágil, automatizado y
+colaborativo que puede ayudar a cualquier comunidad a organizarse mejor, responder
+más rápido y mantener un registro transparente de su actividad ciudadana.
